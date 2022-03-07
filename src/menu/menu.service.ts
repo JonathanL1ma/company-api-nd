@@ -9,6 +9,8 @@ export class MenuService {
     'Servicio al cliente',
     'Crear cuenta',
     'Iniciar sesión',
+    'Jonathan',
+    'Lima',
     'Políticas de Privacidad',
     'EULA',
   ];
